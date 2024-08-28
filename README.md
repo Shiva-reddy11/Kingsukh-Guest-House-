@@ -1,6 +1,6 @@
 # Assessment Kingsukh-Geust House Website Code Submission by Shiva Reddy
 
-This project is hosted here: [https://shiva-reddy11.github.io/Products-UI/](https://kingsukh-guest-house-blue.vercel.app/)
+This project is hosted here: https://kingsukh-guest-house-blue.vercel.app/
 
 ## Getting Started
 

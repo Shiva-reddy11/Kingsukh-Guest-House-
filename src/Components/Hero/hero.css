@@ -1,0 +1,83 @@
+.hero-section{
+    background-image: url(../../Assets/pexels-pixabay-262048.jpg);
+    background-size: 100%;
+    margin:0px 70px 70px 70px;    
+    border-radius: 10px;
+    height: 660px;
+    background-repeat: no-repeat;
+}
+.hero-title{
+   position: relative;
+   top: 260px;
+    text-align: center;
+    color: black;
+    font-weight: 500;
+    display: flex;
+    flex-shrink: inherit;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hero-title-text1{
+    opacity: 0.6;
+    font-size: 20px;
+}
+.hero-title-text2{
+font-size: 64px;
+position: relative;
+bottom: 50px;
+}
+.booking-container{
+    border: none ;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 75%;
+    background-color: #FFFF;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
+}
+
+@media screen and (min-width:600px) and (max-width:770px) {
+    .hero-title{
+        position: relative;
+        top: 170px;
+    }
+    .hero-title-text2{
+        font-size: 44px;
+        position: relative;
+        bottom: 10px;
+        }
+        .hero-section{
+            height: 474px;
+           z-index: -1;
+        }
+        .booking-container{
+            position: relative;
+            bottom: 30px;
+        }
+}
+
+@media screen and (min-width:100px) and (max-width:426px) {
+        
+    .hero-section{
+        background-size: 211%;
+        height: 460px;
+        margin:0px 20px 20px 20px; 
+    }
+    .hero-title{
+        position: relative;
+        top: 70px;
+    }
+    .hero-title-text2{
+        font-size: 44px;
+        position: relative;
+        bottom: 10px;
+        }
+        .booking-container{
+            position: relative;
+            bottom: 30px;
+        }
+}

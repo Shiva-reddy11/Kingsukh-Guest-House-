@@ -1,0 +1,26 @@
+.count-section{
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 250px;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  
+    font-size: 34px; 
+}
+.count-num{
+    text-align: center;
+    font-weight: 500;
+}
+.count-pluse{
+    position: relative;
+    bottom: 3px;
+}
+@media screen and (min-width:100px) and (max-width:600px) {
+    .count-section{
+        gap: 70px;
+        margin: 20px;
+        text-align: center;
+    }
+}

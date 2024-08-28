@@ -1,0 +1,120 @@
+.about-section{
+    border-radius: 10px;
+    margin:70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.about-flex{
+    display: flex;
+    flex-shrink: inherit;
+    gap: 50px;
+    background-color: whitesmoke;
+}
+.about-img{
+    height: 100%;
+    width: 600px;
+    object-fit:cover;
+    border-radius: 10px;
+}
+.about-text{
+    font-size: 20px;
+    padding-right: 10px;
+    line-height: 27px;
+    color:#4B5563;
+    font-weight: 450;
+}
+.about-data h1{
+    font-size: 34px;
+}
+.about-us h2{
+    font-family: comic sans ms;
+}
+.about-us hr{
+    height: 3px;
+    width: 136px;
+    background-color: #E82574;
+    position: relative;
+    right: 327px;
+    top: -17px;
+    border-radius: 10px;
+} 
+
+@media screen and (min-width:900px) and (max-width:1026px) {
+   
+    .about-us hr{
+        position: relative;
+        right: 393px;
+        top: -17px;
+    }
+    .about-us h2{
+        position: relative;
+        left: 10px;
+    }
+    .about-flex{
+        flex-wrap: wrap;
+        
+    }
+    .about-img{
+        width: 925px;  
+    }
+}
+@media screen and (min-width:600px) and (max-width:770px) {
+   .about-section{
+    margin: 0px 70px 70px 70px;
+   }
+    .about-flex{
+        flex-wrap: wrap;
+        gap:0px
+    }
+    .about-img{
+        width: 650px;
+        vertical-align: middle;
+        object-fit: contain;
+        position: relative;
+        bottom: 30px;
+    }
+   
+    .about-us hr{
+    position: relative;
+    right: 264px;
+    top: -17px;
+    }
+    .about-us h2{
+        position: relative;
+        left: 10px;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:600px) {
+    .about-section{
+        margin:20px; 
+    }
+    .about-flex{
+        flex-wrap: wrap;
+        gap: 0px;
+    }
+    .about-img{
+         width: 383px;
+         
+         border-radius: 10px;
+         vertical-align: middle;
+         object-fit: contain;
+    }
+    .about-us hr{
+        right: 52px;
+        top: 2px;
+        }
+        .about-text{
+            font-size: 18px;
+        }
+        .about-us h2{
+            position: relative;
+            left: 10px;
+        }
+        .about-us hr{
+            position: relative;
+            right: 124px;
+            top: -17px;
+            }
+}

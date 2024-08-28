@@ -1,0 +1,157 @@
+.active{
+    background-color: #1d4ed8;
+}
+
+nav {
+    display: flex;
+    gap: 4rem;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-shrink: inherit;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+nav .title {
+    font-family: Comic Sans MS;
+    font-size: 24px;
+}
+
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+
+nav ul li {
+   list-style: none; 
+   transition: all 0.3s ease;
+}
+nav ul li:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    color: #e82574;
+}
+
+
+
+nav .menu {
+    display: none;
+    position: absolute;
+    top: 0.75rem;
+    right: 0.5rem;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 2.25rem;
+    height: 2rem;
+}
+
+nav .menu span {
+    height: 0.4rem;
+    width: 100%;
+    background-color: black;
+    border-radius: 0.2rem;
+}
+
+@media (max-width:790px){ 
+    nav .menu {
+        display: flex;
+    }
+    nav .close-img{
+        display: block;
+        position: absolute;
+        top: 1.75rem;
+        right: 1rem;
+    }
+    .title-bg{
+        background-color: #e82574;
+    }
+    nav .title{
+        position: relative;
+        left: 30px;
+        color: white;
+    }
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+        background-color:#e82574;
+        height: 18vh;
+        margin-top: 0;
+    }
+
+    nav ul ,.book-btn{
+        display: none;
+        flex-direction: column;
+        margin-bottom: 0rem;
+    }
+
+    .open {
+        display: flex;
+        width: 94.8%;  
+        backdrop-filter: blur(0px);
+        background-color: #f45293;
+        position: relative;
+        bottom: 42px;
+        z-index: 1;
+    }
+   
+    nav ul li {
+        display: flex;
+        color: white;
+        font-weight: 500;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 20px;
+        padding-top: 10px;
+        gap: 25px;       
+    }
+    .book-btn{
+        display: none;
+    }
+}
+@media (max-width: 480px) {
+    nav .menu {
+        display: flex;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+        height: 20vh;
+        margin: 0;
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+        margin-bottom: 0.25rem;  
+    }
+
+    nav ul.open {
+        display: flex;
+        background-color: #f45293;
+        position: relative;
+        bottom: 30px;
+    }
+
+    nav ul li {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 15px;
+        padding-top: 10px;  
+    }
+
+    nav ul li a {
+        margin: 0.2rem 0.5rem;
+    }
+    .open {
+        width: 90.7%;  
+    }
+    .book-btn{
+        display: none;
+    }
+}

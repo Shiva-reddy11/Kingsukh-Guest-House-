@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Coding Assessment L-2 Code Submission by Shiva Reddy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted here: https://shiva-reddy11.github.io/Products-UI/
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+1. **Clone or Download:**
+   - If using Git, clone the repository and navigate to the project folder using the following command:
+     ```
+     git clone https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission.git
+     cd ./Marmeto-Coding-Assessment-L-2-Submission
+     ```
 
-### `npm start`
+2. **Explore the Structure:**
+- `index.html`: Main HTML file for the project.
+- `style.css`: CSS file containing the styling.
+- `script.js`: JavaScript file containing the entire scripting logic.
+- `README.md`: Documentation for the project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **Open Live Server to run the Project.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
+- **Responsiveness**: This webpage is responsive among all devices, ranging from width of below 767px to 1024px and beyond.
+- **All Categorys**: Defaultly Show All Categories List
 
-### `npm test`
+## Dependencies
+- **Figma Design**: https://www.figma.com/file/lXrVC18Jpw7OBzKl8BMWc9/Category-tabs
+- **API Endpoint**: https://cdn.shopify.com/s/files/1/0564/3685/0790/files/multiProduct.json
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- Javascript
+- CSS
+- HTML
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Video Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://github.com/Shiva-reddy11/Products-UI/assets/148879817/e6a287f6-2fdd-4674-bec3-f54a46a5e339
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 0](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/4cec3142-a35f-4b7a-a239-3b911cf2c1b0) 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Screenshot 1](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/5f254b63-5325-467d-84d7-628371666997) 
 
-## Learn More
+![Screenshot 2](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/8a3a2b13-1b9d-4e44-a66f-4bf6649266b3) 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot 3](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/17c690dd-df76-433e-9b6f-ff3ee17e12e1) 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

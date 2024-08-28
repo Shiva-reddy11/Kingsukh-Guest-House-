@@ -1,54 +1,37 @@
-# Coding Assessment L-2 Code Submission by Shiva Reddy
+# Assessment Kingsukh-Geust House Website Code Submission by Shiva Reddy
 
 This project is hosted here: https://shiva-reddy11.github.io/Products-UI/
 
 ## Getting Started
 
-1. **Clone or Download:**
-   - If using Git, clone the repository and navigate to the project folder using the following command:
-     ```
-     git clone https://github.com/aryanploxxx/Marmeto-Coding-Assessment-L-2-Submission.git
-     cd ./Marmeto-Coding-Assessment-L-2-Submission
-     ```
-
-2. **Explore the Structure:**
-- `index.html`: Main HTML file for the project.
-- `style.css`: CSS file containing the styling.
-- `script.js`: JavaScript file containing the entire scripting logic.
-- `README.md`: Documentation for the project.
-
-3. **Open Live Server to run the Project.**
-
 ## Features
 - **Responsiveness**: This webpage is responsive among all devices, ranging from width of below 767px to 1024px and beyond.
-- **All Categorys**: Defaultly Show All Categories List
-
-## Dependencies
-- **Figma Design**: https://www.figma.com/file/lXrVC18Jpw7OBzKl8BMWc9/Category-tabs
-- **API Endpoint**: https://cdn.shopify.com/s/files/1/0564/3685/0790/files/multiProduct.json
 
 ## Technologies Used
 
-- Javascript
-- CSS
-- HTML
-
-## Video Demo
-
-https://github.com/Shiva-reddy11/Products-UI/assets/148879817/e6a287f6-2fdd-4674-bec3-f54a46a5e339
-
+- React js
+- Aos library
+- react-router-hash-link
 
 
 
 ## Screenshots
 
-![Screenshot 0](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/4cec3142-a35f-4b7a-a239-3b911cf2c1b0) 
+![Screenshot 0](https://github.com/user-attachments/assets/8fcbbdf6-eba2-4f9e-9acf-066c984b100d) 
 
-![Screenshot 1](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/5f254b63-5325-467d-84d7-628371666997) 
+![Screenshot 1](https://github.com/user-attachments/assets/32a9025d-fc4b-4704-b07d-d7598597d412) 
 
-![Screenshot 2](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/8a3a2b13-1b9d-4e44-a66f-4bf6649266b3) 
+![Screenshot 2](https://github.com/user-attachments/assets/2560d657-5e06-4e9a-8540-62b0221948a4) 
 
-![Screenshot 3](https://github.com/Shiva-reddy11/Products-UI/assets/148879817/17c690dd-df76-433e-9b6f-ff3ee17e12e1) 
+![Screenshot 3](https://github.com/user-attachments/assets/a67ef319-fc7b-46) 
+
+![Screenshot 4](https://github.com/user-attachments/assets/4467777c-b8d9-4e4f-9b63-a1e1574404d8) 
+
+![Screenshot 5](https://github.com/user-attachments/assets/3f174cca-38ad-4cab-b1e6-703c8e6231ad) 
+
+![Screenshot 6](https://github.com/user-attachments/assets/6f5fe9d1-3ac2-4b5b-ab15-bb47f4e1c975) 
+
+![Screenshot 7](https://github.com/user-attachments/assets/32b2860d-4bc0-4903-a5aa-dace6cde7354) 
 
 
 

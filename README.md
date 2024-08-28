@@ -23,15 +23,13 @@ This project is hosted here: https://shiva-reddy11.github.io/Products-UI/
 
 ![Screenshot 2](https://github.com/user-attachments/assets/2560d657-5e06-4e9a-8540-62b0221948a4) 
 
-![Screenshot 3](https://github.com/user-attachments/assets/a67ef319-fc7b-46) 
+![Screenshot 3](https://github.com/user-attachments/assets/4467777c-b8d9-4e4f-9b63-a1e1574404d8) 
 
-![Screenshot 4](https://github.com/user-attachments/assets/4467777c-b8d9-4e4f-9b63-a1e1574404d8) 
+![Screenshot 4](https://github.com/user-attachments/assets/3f174cca-38ad-4cab-b1e6-703c8e6231ad) 
 
-![Screenshot 5](https://github.com/user-attachments/assets/3f174cca-38ad-4cab-b1e6-703c8e6231ad) 
+![Screenshot 5](https://github.com/user-attachments/assets/6f5fe9d1-3ac2-4b5b-ab15-bb47f4e1c975) 
 
-![Screenshot 6](https://github.com/user-attachments/assets/6f5fe9d1-3ac2-4b5b-ab15-bb47f4e1c975) 
-
-![Screenshot 7](https://github.com/user-attachments/assets/32b2860d-4bc0-4903-a5aa-dace6cde7354) 
+![Screenshot 6](https://github.com/user-attachments/assets/32b2860d-4bc0-4903-a5aa-dace6cde7354) 
 
 
 
